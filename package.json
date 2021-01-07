@@ -1,0 +1,22 @@
+{
+  "name": "bilibili-barrage",
+  "version": "1.0.0",
+  "description": "连接bilibili直播弹幕",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bilibili",
+    "直播",
+    "弹幕"
+  ],
+  "author": "zc",
+  "license": "ISC",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "ws": "^7.4.2"
+  }
+}
